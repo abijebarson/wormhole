@@ -8,12 +8,13 @@ There is still one artefact, which I tried to mitigate by changing whatever I th
 
 ## Sample output
 
-![alt text](wormhole_17.png)
+![wormhole](wormhole_17.png)
 
-## Sample video output (from looper.py)
+## Sample video output (produce images by looping through)
 
 Falling from one universe into another, through a wormhole:
-![alt text](wormhole3.gif)
+![falling through a wormhole](wormhole3.gif) 
+(This is probably not loading for you, that's cuz it's too big)
 
 
 (NOTE: I'm not including the spherical panorama images, because they are licensed. There are some free versions too. Find them and use them on your own.)
